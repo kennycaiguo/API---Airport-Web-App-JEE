@@ -4,5 +4,7 @@
  of different entities (pilots, flights, planes, passengers)
 while performing Mappings (Many To Many ..)
 
--Technology / IDE: JEE, Hibernate, Oracle / Eclipse
+#Technology / IDE
+
+JEE, Hibernate, Oracle / Eclipse
 
